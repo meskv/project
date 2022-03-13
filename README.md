@@ -1,2 +1,2 @@
-## Color Pallete Generator <https://meskv.github.io/portfolio/projects/ColorPalleteGenerator/index.html>
+## Color Pallete Generator
 ## Random Number Game
